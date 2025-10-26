@@ -2,8 +2,7 @@
 <h3 align="center">💻 Senior Software Engineer | AI & Cloud-Native Application Developer 🚀</h3>
 
 <p align="center">
-  <a href="mailto:ekboteshrutika2002@gmail.com">📧 ekboteshrutika2002@gmail.com</a> • 
-  <a href="tel:+919359041776">📱 +91 9359041776</a> • 
+  <a href="mailto:ekboteshrutika2002@gmail.com">📧 ekboteshrutika2002@gmail.com</a> •  
   <a href="https://www.linkedin.com/in/shrutika-ekbote/">🔗 LinkedIn</a> • 
   <a href="https://github.com/shrutika-ekbote">💻 GitHub</a> • 🇮🇳 India
 </p>
